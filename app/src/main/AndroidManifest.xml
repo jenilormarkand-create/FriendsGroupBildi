@@ -8,7 +8,9 @@
         android:allowBackup="true"
         android:label="Friend's Group BILDI"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        android:icon="@drawable/logo"
+        android:roundIcon="@drawable/logo">
 
         <activity
             android:name=".MainActivity"
